@@ -101,8 +101,10 @@
     "enzyme": "2.8.2",
     "gh-pages": "0.12.0",
     "npm-run-all": "^4.0.2",
+    "prismjs": "1.6.0",
     "react-addons-test-utils": "15.5.1",
     "react-docgen": "^2.14.0",
+    "react-prism": "4.2.0",
     "react-test-renderer": "15.5.4"
   }
 }
